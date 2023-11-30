@@ -11,7 +11,7 @@ Check this [easy step-by-step lesson by Microsoft](https://github.com/microsoft/
 
 **1. [How the world wide web works (12 min.)](https://youtu.be/guvsH5OFizE)** - Fundamental web application terms and context
 
-  <img src="https://github.com/Tar-Baby/py-backend-path/assets/40581019/72eacfb2-a203-4b9d-a35e-435ac20af435" width="45%">
+  <img src="https://github.com/linomp/get-started-with-web/assets/40581019/5d9cf928-05a3-4c50-832e-7226b0ae754a" width="45%">
 
 **2. [Frontend: Make a Website From Scratch (HTML & CSS) (2h)](https://www.youtube.com/watch?v=HXYZxVbWkjc&t=438s)** - Brad Traversy is the best Web Dev teacher on Youtube/Udemy. Here you will get a beginner-friendly intro to HTML & CSS, the mandatory basics of web. You will even deploy your project at the end!
 
