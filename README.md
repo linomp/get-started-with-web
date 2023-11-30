@@ -1,7 +1,7 @@
 # Get Started with Web Applications
 Simple path to get you started developing Web Applications.
 
-The path covers HTML/CSS basics, APIs & how to quickly build one in Python, and makes you build a project on your own at the end.
+The path covers HTML/CSS basics, APIs & how to quickly build one in Python, and makes you build a project on your own at the end. (everything free, from youtube)
 
 ## (Optional) Git & Github
 
