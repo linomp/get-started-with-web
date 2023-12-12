@@ -3,7 +3,7 @@ Simple path to get you started developing Web Applications.
 
 The path covers HTML/CSS basics, APIs & how to quickly build one in Python, and makes you build a project on your own at the end. (everything free, from youtube)
 
-_Tip:_ if you already have some background about APIs and websites, you can jump straight to the project and learn the stuff in a more natural order, completely based on need for advancing on the project. 
+_Tip:_ if you already have some background about APIs and websites, you can jump straight to the project and learn the stuff in a more natural order, completely based on what is needed for advancing on aspects of the project.  
 
 ## (Optional) Git & Github
 
